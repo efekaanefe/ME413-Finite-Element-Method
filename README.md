@@ -5,7 +5,8 @@
 - [x] Truss 2D
 - [x] Beam 2D
 - [x] Frame 2D
-- [x] Nonlinear Solids 2D
+- [x] Quadrature 2D
+- [ ] Heat Diffusion 2D
 
 - [ ] Heat Transfer 1D (steady and transient)
 - [ ] Heat Transfer 2D (steady and transient)
