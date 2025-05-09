@@ -1,4 +1,6 @@
 # ME413-Finite-Element-Method
+This repository provides a comprehensive implementation of various Finite Element Method (FEM) problems in structural analysis and heat diffusion. All computations are carried out from scratch using Python and the fundamental library numpy.
+
 
 ## TODOs
 - [x] Truss 1D
