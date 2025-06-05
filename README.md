@@ -1,6 +1,25 @@
 # ME413-Finite-Element-Method
 This repository provides a comprehensive implementation of various Finite Element Method (FEM) problems in structural analysis and heat diffusion. All computations are carried out from scratch using Python and the fundamental library numpy.
 
+## Project Showcase
+
+### 3D Frame Element Analysis  
+Simulates the behavior of 3D frame structures under various loading conditions.  
+![3D Frame Element](https://github.com/user-attachments/assets/bd794362-f700-430e-8a31-ad1d3f6e3a29)
+
+---
+
+
+### 2D Linear Elasticity – Stress Analysis  
+Performs stress and displacement analysis in 2D elastic bodies.  
+![2D Linear Elasticity](https://github.com/user-attachments/assets/623b3504-ec87-4400-a417-f81c75ec26ea)
+
+---
+
+###  2D Heat Diffusion Simulation  
+Solves the transient heat equation over a 2D domain.  
+![2D Heat Diffusion](https://github.com/user-attachments/assets/c55b0807-6d85-4ac0-9dfe-1fce0e280b1d)
+
 
 ## TODOs
 - [x] Truss 1D
@@ -14,4 +33,4 @@ This repository provides a comprehensive implementation of various Finite Elemen
 
 - [ ] Modular package for all the different problems??
 
-- [ ] Create showcase images for the repo
+- [x] Create showcase images for the repo
