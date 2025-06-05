@@ -3,22 +3,23 @@ This repository provides a comprehensive implementation of various Finite Elemen
 
 ## Project Showcase
 
-### 3D Frame Element Analysis  
+### 🧱 3D Frame Element Analysis  
 Simulates the behavior of 3D frame structures under various loading conditions.  
-![3D Frame Element](https://github.com/user-attachments/assets/bd794362-f700-430e-8a31-ad1d3f6e3a29)
+<img src="https://github.com/user-attachments/assets/bd794362-f700-430e-8a31-ad1d3f6e3a29" alt="3D Frame Element" width="400"/>
 
 ---
 
-
-### 2D Linear Elasticity – Stress Analysis  
+### 🧩 2D Linear Elasticity – Stress Analysis  
 Performs stress and displacement analysis in 2D elastic bodies.  
-![2D Linear Elasticity](https://github.com/user-attachments/assets/623b3504-ec87-4400-a417-f81c75ec26ea)
+<img src="https://github.com/user-attachments/assets/623b3504-ec87-4400-a417-f81c75ec26ea" alt="2D Linear Elasticity" width="400"/>
 
 ---
 
-###  2D Heat Diffusion Simulation  
+### 🌡️ 2D Heat Diffusion Simulation  
 Solves the transient heat equation over a 2D domain.  
-![2D Heat Diffusion](https://github.com/user-attachments/assets/c55b0807-6d85-4ac0-9dfe-1fce0e280b1d)
+<img src="https://github.com/user-attachments/assets/c55b0807-6d85-4ac0-9dfe-1fce0e280b1d" alt="2D Heat Diffusion" width="400"/>
+
+---
 
 
 ## TODOs
